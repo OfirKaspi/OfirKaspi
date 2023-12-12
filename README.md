@@ -1,6 +1,6 @@
 # Ofir Kaspi
 
-**`Web Developer`**
+**`Web Developer`** **`Full Stack Developer`**
 
 I'm Ofir Kaspi, a dedicated web developer on a mission to craft impactful solutions. Specializing in web development, I take pride in building each of my repositories from scratch, infusing thoughtful design and problem-solving approaches. My focus is not just on writing code but on addressing real-life challenges through intuitive and effective web applications.
 
